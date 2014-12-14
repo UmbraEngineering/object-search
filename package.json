@@ -1,6 +1,6 @@
 {
   "name": "object-search",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A module for looking up object properties at depth",
   "main": "lib/index.js",
   "scripts": {
